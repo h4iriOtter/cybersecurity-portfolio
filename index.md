@@ -2,122 +2,88 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# About Me
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+My name is **Mohd Faizal Edrus Bin Mohd Zaini**, and I am a Security Analyst with **4 years of experience** in cybersecurity. My expertise spans cybersecurity and network security, with a commitment to ensuring robust security measures across diverse environments. I am always eager to learn new skills and collaborate with teams to address emerging challenges in the cybersecurity landscape.
 
 * * *
 
-### Here is an unordered list:
+## Technical Skills
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+### Operating Systems
 
-### And an ordered list:
+* Windows
+* Linux
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+##3 Cybersecurity Skillset
 
-### And a nested list:
+* Incident Detection and Response
+* Threat Intelligence
+* Threat Hunting
+* Endpoint Security
+* Cloud Security
+* Incident Forensics and Analysis
+* Security Tools and Technologies
+* Networking and Network Security
+* Incident Management and Crisis Communication
+* Security Auditing and Compliance
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+### Programming and Scripting
 
-### Small image
+* SQL
+* PHP
+* Java
+* JavaScript
+* Python
+* Bash
+* Powershell 
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+### Other Skills
 
-### Large image
+* Analytical Thinking
+* Problem-Solving
+* Communication
+* Teamwork and Collaboration
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+* * *
 
+# Certification and Training
 
-### Definition lists can be used with HTML syntax.
+## Professional Certifications
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+| Certificate        | Year          |
+|:-------------|:------------------|
+| **Cloud One - Endpoint & Workload Security Certified Professional** | 2023 |
+| **APU Certified Cybersecurity Engineer - ACCE Program** | 2023   |
+|   - Rocheston Certified Cybersecurity Engineer Level 1 |      |
+|   - Rocheston Certified Cybersecurity Engineer Level 2 |      |
+| **CompTIA Cybersecurity Analyst (CySA+) ce Certification** | 2022    |
+| **CompTIA Security Analytics Professional - CSAP Stackable Certification** | 2022    |
+| **CompTIA Security+ ce Certification** | 2020   |
+
+## Training Workshop
+
+* * *
+
+## Project Experience
+
+### Project 1: **Incident Response Playbook**
+**Objective:** Create a detailed playbook to guide organizations through incident handling related to `malware`, `ransomware`, `web defacement`, and `DDoS`.
+**Methodology:**  
+* Documented step-by-step procedures for identification & analysis, containment, remediation and post-incident.  
+* Coordinated between SMEs and SOC teams to standardize response protocols.  
+**Outcome:** Reduced incident resolution time and improved organizational readiness for incidents.
+
+* * *
+
+## Learning Journey
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+In my cybersecurity career, I have developed a strong foundation in incident response, threat hunting, and vulnerability assessments. I am proficient in using tools such as Nmap, Wireshark, and SIEM platforms to identify and address security threats.
 ```
 
-```
-The final element.
-```
+## Career Objetive
+
+## Contact Information
+
+> **Linkedin:** [www.linkedin.com/in/faizal-edrus](https://www.linkedin.com/in/faizal-edrus)
