@@ -46,14 +46,14 @@ My name is **Mohd Faizal Edrus Bin Mohd Zaini**, and I am a Security Analyst wit
 ---
 
 ## Certifications and Training
-### Professional Certifications                                                      Years
-1. **Cloud One - Endpoint & Workload Security Certified Professional                (2023)**
-2. **APU Certified Cybersecurity Engineer - ACCE Program                            (2023)**
+### Professional Certifications
+1. **Cloud One - Endpoint & Workload Security Certified Professional (2023)**
+2. **APU Certified Cybersecurity Engineer - ACCE Program (2023)**
    - Rocheston Certified Cybersecurity Engineer Level 1
    - Rocheston Certified Cybersecurity Engineer Level 2
-3. **CompTIA Cybersecurity Analyst (CySA+) ce Certification                         (2022)**
-4. **CompTIA Security Analytics Professional - CSAP Stackable Certification         (2022)**
-5. **CompTIA Security+ ce Certification                                             (2020)**
+3. **CompTIA Cybersecurity Analyst (CySA+) ce Certification (2022)**
+4. **CompTIA Security Analytics Professional - CSAP Stackable Certification (2022)**
+5. **CompTIA Security+ ce Certification (2020)**
 
 ---
 
@@ -64,7 +64,7 @@ My name is **Mohd Faizal Edrus Bin Mohd Zaini**, and I am a Security Analyst wit
 **Methodology:**  
 - Documented step-by-step procedures for identification & analysis, containment, remediation and post-incident.  
 - Coordinated between SMEs and SOC teams to standardize response protocols.  
-**Outcome:** Reduced incident resolution time and improved organizational readiness for malware incidents.
+**Outcome:** Reduced incident resolution time and improved organizational readiness for incidents.
 
 ---
 
