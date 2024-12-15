@@ -78,9 +78,12 @@ My name is **Mohd Faizal Edrus Bin Mohd Zaini**, and I am a Security Analyst wit
 
 ## Learning Journey
 
-```
-In my cybersecurity career, I have developed a strong foundation in incident response, threat hunting, and vulnerability assessments. I am proficient in using tools such as Nmap, Wireshark, and SIEM platforms to identify and address security threats.
-```
+In my cybersecurity career, I have developed a strong foundation in incident response, threat hunting, and security compliance. I am proficient in using security tools such as Nmap, Wireshark, and SIEM platforms to identify and address security threats.
+
+### Areas of Growth
+I am currently working to deepen my expertise in the following areas:  
+- Advanced threat hunting techniques.  
+- Cloud security architecture.
 
 ## Career Objetive
 
