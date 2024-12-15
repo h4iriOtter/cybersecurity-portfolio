@@ -33,10 +33,15 @@ My name is **Mohd Faizal Edrus Bin Mohd Zaini**, and I am a Security Analyst wit
 - PHP
 - Java
 - JavaScript
-- Python  
+- Python
+- Bash
+- Powershell 
 
 ### Other Skills
-- Microsoft Office (Word, Excel, PowerPoint)
+- Analytical Thinking
+- Problem-Solving
+- Communication
+- Teamwork and Collboration
 
 ---
 
