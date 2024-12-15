@@ -15,7 +15,7 @@ My name is **Mohd Faizal Edrus Bin Mohd Zaini**, and I am a Security Analyst wit
 * Windows
 * Linux
 
-##3 Cybersecurity Skillset
+### Cybersecurity Skillset
 
 * Incident Detection and Response
 * Threat Intelligence
