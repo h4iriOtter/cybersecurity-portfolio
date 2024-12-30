@@ -6,6 +6,8 @@ layout: default
 
 My name is **Mohd Faizal Edrus Bin Mohd Zaini**, and I am a Security Analyst with **4 years of experience** in cybersecurity. My expertise spans cybersecurity and network security, with a commitment to ensuring robust security measures across diverse environments. I am always eager to learn new skills and collaborate with teams to address emerging challenges in the cybersecurity landscape.
 
+**Linkedin:** [www.linkedin.com/in/faizal-edrus](https://www.linkedin.com/in/faizal-edrus)
+
 * * *
 
 ## Technical Skills
@@ -47,8 +49,6 @@ My name is **Mohd Faizal Edrus Bin Mohd Zaini**, and I am a Security Analyst wit
 
 * * *
 
-# Certification and Training
-
 ## Professional Certifications
 
 | Certificate        | Year          |
@@ -60,8 +60,6 @@ My name is **Mohd Faizal Edrus Bin Mohd Zaini**, and I am a Security Analyst wit
 | **CompTIA Cybersecurity Analyst (CySA+) ce Certification** | 2022    |
 | **CompTIA Security Analytics Professional - CSAP Stackable Certification** | 2022    |
 | **CompTIA Security+ ce Certification** | 2020   |
-
-## Training Workshop
 
 * * *
 
@@ -86,9 +84,3 @@ In my cybersecurity career, I have developed a strong foundation in incident res
 I am currently working to deepen my expertise in the following areas:  
 - Advanced threat hunting techniques.  
 - Cloud security architecture.
-
-## Career Objetive
-
-## Contact Information
-
-> **Linkedin:** [www.linkedin.com/in/faizal-edrus](https://www.linkedin.com/in/faizal-edrus)
