@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About Me
+# 🧑‍💻 About Me
 
 My name is **Mohd Faizal Edrus Bin Mohd Zaini**, and I am a Security Analyst with **4 years of experience** in cybersecurity. My expertise spans cybersecurity and network security, with a commitment to ensuring robust security measures across diverse environments. I am always eager to learn new skills and collaborate with teams to address emerging challenges in the cybersecurity landscape.
 
@@ -14,32 +14,25 @@ My name is **Mohd Faizal Edrus Bin Mohd Zaini**, and I am a Security Analyst wit
 
 ### Operating Systems
 
-* Windows
-* Linux
+* 🪟 Windows
+* 🐧 Linux
 
 ### Cybersecurity Skillset
 
-* Incident Detection and Response
-* Threat Intelligence
-* Threat Hunting
-* Endpoint Security
-* Cloud Security
-* Incident Forensics and Analysis
-* Security Tools and Technologies
-* Networking and Network Security
-* Incident Management and Crisis Communication
-* Security Auditing and Compliance
+* 🚨 Incident Detection and Response
+* 🌐 Threat Intelligence
+* 🕵️‍♂️ Threat Hunting
+* 💻 Endpoint Security
+* ☁️ Cloud Security
+* 📋 Security Auditing and Compliance
 
 ### Programming and Scripting
 
-* SQL
-* PHP
-* Java
-* JavaScript
-* Python
-* Bash
-* Powershell 
-
+* 🗃️ SQL
+* 🐘 PHP
+* 🐍 Python
+* ⚡ Powershell
+  
 ### Other Skills
 
 * Analytical Thinking
@@ -49,7 +42,7 @@ My name is **Mohd Faizal Edrus Bin Mohd Zaini**, and I am a Security Analyst wit
 
 * * *
 
-## Professional Certifications
+## 📜 Professional Certifications
 
 | Certificate        | Year          |
 |:-------------|:------------------|
@@ -65,7 +58,7 @@ My name is **Mohd Faizal Edrus Bin Mohd Zaini**, and I am a Security Analyst wit
 
 ## Project Experience
 
-### Project 1: **Incident Response Playbook**
+### 📖 Project 1: **Incident Response Playbook**
 **Objective:** Create a detailed playbook to guide organizations through incident handling related to `malware`, `ransomware`, `web defacement`, and `DDoS`.
 
 **Methodology:**  
@@ -74,7 +67,7 @@ My name is **Mohd Faizal Edrus Bin Mohd Zaini**, and I am a Security Analyst wit
 
 **Outcome:** Reduced incident resolution time and improved organizational readiness for incidents.
 
-### Project 2: **Security Infrastructure Hardening and Best Practices**
+### 🛡️ Project 2: **Security Infrastructure Hardening and Best Practices**
 **Objective:** Strengthen security infrastructure by applying best practices and addressing trending vulnerabilities.
 
 **Methodology:**
@@ -87,7 +80,7 @@ My name is **Mohd Faizal Edrus Bin Mohd Zaini**, and I am a Security Analyst wit
 
 * * *
 
-## Learning Journey
+## 🚀 Learning Journey
 
 In my cybersecurity career, I have developed a strong foundation in incident response, threat hunting, and security compliance. I am proficient in using security tools such as Nmap, Wireshark, and SIEM platforms to identify and address security threats.
 
