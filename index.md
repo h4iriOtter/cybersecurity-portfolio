@@ -6,7 +6,9 @@ layout: default
 
 My name is **Mohd Faizal Edrus Bin Mohd Zaini**, and I am a Security Analyst with **4 years of experience** in cybersecurity. My expertise spans cybersecurity and network security, with a commitment to ensuring robust security measures across diverse environments. I am always eager to learn new skills and collaborate with teams to address emerging challenges in the cybersecurity landscape.
 
-**Linkedin:** [www.linkedin.com/in/faizal-edrus](https://www.linkedin.com/in/faizal-edrus)
+**LinkedIn:** <a href="https://www.linkedin.com/in/faizal-edrus" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20">
+</a>
 
 * * *
 
