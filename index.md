@@ -56,7 +56,7 @@ My name is **Mohd Faizal Edrus Bin Mohd Zaini**, and I am a Security Analyst wit
 
 * * *
 
-## Project Experience
+## 💼 Project Experience
 
 ### 📖 Project 1: **Incident Response Playbook**
 **Objective:** Create a detailed playbook to guide organizations through incident handling related to `malware`, `ransomware`, `web defacement`, and `DDoS`.
