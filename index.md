@@ -48,7 +48,7 @@ My name is **Mohd Faizal Edrus Bin Mohd Zaini**, and I am a Security Analyst wit
 
 | Certificate        | Year          |
 |:-------------|:------------------|
-| **Cloud One - Endpoint & Workload Security Certified Professional** | 2023 |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Trend_Micro_logo.svg/120px-Trend_Micro_logo.svg.png" alt="Trend Micro" width="20"> **Cloud One - Endpoint & Workload Security Certified Professional** | 2023 |
 | **APU Certified Cybersecurity Engineer - ACCE Program** | 2023   |
 |   - Rocheston Certified Cybersecurity Engineer Level 1 |      |
 |   - Rocheston Certified Cybersecurity Engineer Level 2 |      |
