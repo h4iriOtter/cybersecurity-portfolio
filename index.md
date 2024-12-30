@@ -74,6 +74,17 @@ My name is **Mohd Faizal Edrus Bin Mohd Zaini**, and I am a Security Analyst wit
 
 **Outcome:** Reduced incident resolution time and improved organizational readiness for incidents.
 
+### Project 2: **Security Infrastructure Hardening and Best Practices**
+**Objective:** Strengthen security infrastructure by applying best practices and addressing trending vulnerabilities.
+
+**Methodology:**
+* Conducted a security configuration review of critical systems (e.g., WAF, IDS/IPS, endpoint security) against industry benchmarks (e.g., NIST/CIS Controls).
+* Updated security solutions and configurations in response to evolving threats and vulnerabilities (e.g., Log4j, proxy shell).
+* Implemented hardening measures, such as disabling unused ports, enforcing MFA, and auditing privileged access.
+* Delivered training and best practices documentation for team members to ensure consistent security implementation.
+  
+**Outcome:** Reduced attack surface across the infrastructure and achieved zero critical misconfigurations in internal audits.
+
 * * *
 
 ## Learning Journey
